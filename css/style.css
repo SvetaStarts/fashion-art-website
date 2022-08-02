@@ -1,0 +1,580 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.container{
+	
+	margin: 0;
+	padding: 0;
+}
+i{
+	font-size: 15px;
+	color: black;
+	transition: all .2s linear;
+}
+i:hover{
+	color: #CDAD93;
+	cursor: pointer;
+}
+.header-1{
+	padding: 30px 0;
+}
+.menu{
+	padding-bottom: 30px;
+}
+#menu-link{
+	font-family: 'Ibarra Real Nova', serif;
+	color: black;
+	font-size: 13px;
+	text-transform: uppercase;
+	transition: all .1s linear;
+	letter-spacing: 2px;
+}
+#menu-link:hover{
+	color: #CDAD93;
+	cursor: pointer;
+}
+#my-video{
+	position: relative;
+    min-width: 100%;
+    min-height: 100%;
+    width: 1024px;
+    height: 530px;
+    z-index: -1;
+}
+.section-1{
+	background: #191919;
+	padding: 50px 0;
+}
+.name-1{
+	font-family: 'Ibarra Real Nova', serif;
+	font-size: 160px;
+	text-transform: uppercase;
+	color: #CDAD93;
+	text-align: center;
+	margin-top: -120px;
+	z-index: 5;
+}
+.name-2{
+	font-family: 'Ibarra Real Nova', serif;
+	font-size: 120px;
+	font-style: italic;
+	text-transform: uppercase;
+	text-align: center;
+	color: #E6E6E6;
+	margin-top: -80px;
+}
+.name-section{
+	padding-bottom: -200px;
+}
+.text-section{
+	font-family: 'Hind', sans-serif;
+	font-weight: 600;
+	font-size: 18px;
+	color: #E6E6E6;
+	text-align: center;
+	padding: 60px 100px 180px;
+}
+.section-2{
+	background-image: url(../img/10.jpg);
+	background-size: cover;
+	padding: 50px 0;
+}
+.card-store{
+	width: 640px;
+	height: 800px;
+	background: white;
+	margin-left: 450px;
+	margin-top: 200px;
+	margin-bottom: 100px;
+}
+#welcome-1{
+	font-size: 75px;
+	transform: rotate(270deg);
+	margin-top: 500px;
+	margin-left: 130px;
+
+}
+#welcome-2{
+	font-size: 40px;
+	transform: rotate(270deg);
+	padding-right: 400px;
+	margin-top: -320px;
+	margin-left: -20px;
+	color: #232323;
+	letter-spacing: 5px;
+}
+
+.section-3{
+	background: #191919;
+	padding: 50px 0;
+}
+.text{
+	margin-left: 150px;
+	margin-top: 130px;
+	font-family: 'Hind', sans-serif;
+	font-size: 15px;
+	color: #2F2F2F;
+	text-align: justify;
+}
+#text{
+	font-weight: 600;
+}
+.enjoy{
+	margin-top: 650px;
+	margin-left: -330px;
+	font-family: 'Ibarra Real Nova', serif;
+	color: black;
+	font-size: 25px;
+	letter-spacing: 10px;
+}
+#about-1{
+	font-size: 100px;
+	margin-top: 200px;
+}
+#about-2{
+	font-size: 45px;
+	margin-top: -50px;
+	letter-spacing: 5px;
+}
+.btn-read{
+	height: 55px;
+	width: 320px;
+	background: #CDAD93;
+	color: white;
+	font-size: 15px;
+	font-family: 'Ibarra Real Nova', serif;
+	text-align: center;
+	letter-spacing: 8px;
+	border: none;
+	transition: all .2s linear;
+}
+.btn-read:hover{
+	color: black;
+}
+.section-4{
+	height: 670px;
+}
+#v-2{
+	position: relative;
+    min-width: 100%;
+    min-height: 100%;
+    overflow: hidden;
+    z-index: -1;
+}
+#text-1{
+	margin-top: -550px;
+	font-size: 25px;
+	z-index: 10;
+}
+#text-2{
+	margin-top: -520px;
+	font-size: 70px;
+	font-style: italic;
+	z-index: 10;
+}
+#text-3{
+	margin-top: -420px;
+	font-size: 25px;
+	z-index: 10;
+}
+#text-4{
+	margin-top: -380px;
+	font-size: 60px;
+	color: #E6E6E6;
+	z-index: 10;
+}
+.section-5{
+	background: #191919;
+	height: 1350px;
+}
+.shop-block{
+	width: 945px;
+	margin-top: 200px;
+	background: #0F0F0F;
+	height: 1250px;
+	padding: 80px 0;
+	z-index: 12;
+}
+.card-shop{
+	
+	height: 505px;
+	background: #191919;
+	margin-top: 100px;
+}
+.img-card{
+	width: 235px;
+	height: 330px;
+}
+.text-card{
+	font-family: 'Ibarra Real Nova', serif;
+	font-size: 25px;
+	text-transform: uppercase;
+	text-align: center;
+	color: #CDAD93;
+	margin-top: 30px;
+}
+.price{
+	font-family: 'Hind', sans-serif;
+	font-size: 22px;
+	font-weight: bold;
+	color: white;
+	text-align: center;
+	margin-top: 40px;
+}
+#s-5-1{
+	margin: 0;
+	padding: 0;
+	font-size: 50px;
+	letter-spacing: 5px;
+}
+#s-5-2{
+	margin-top: -30px;
+	padding: 0;
+	font-size: 120px;
+}
+#btn-see{
+	margin-top: 130px;
+}
+.section-6{
+	background: #e6e6e6;
+	height: 1100px;
+}
+#slider{
+	width: 502px;
+	height: 783px;
+	margin-top: 158px;
+}
+#lookbook-1{
+	font-size: 100px;
+	transform: rotate(270deg);
+	margin-top: 700px;
+	margin-left: 100px;
+
+}
+#lookbook-2{
+	font-size: 65px;
+	transform: rotate(270deg);
+	color: #232323;
+	letter-spacing: 10px;
+	margin-top: -80px;
+	margin-left: 220px;
+}
+.section-7{
+	background: #191919;
+	height: 1300px;
+}
+.card-blog{	
+	margin-top: 100px;
+}
+.text-blog{
+	background: white;
+}
+.text-b-1{
+	font-family: 'Ibarra Real Nova', serif;
+	font-size: 25px;
+	text-align: center;
+	color: #232323;
+	padding: 10px 0;
+	font-weight: bold;
+}
+.text-b-2{
+	font-family: 'Hind', sans-serif;
+	font-size: 16px;
+	color: black;
+	text-align: center;
+	padding: 20px 0 30px;
+
+}
+.text-b-3{
+	font-family: 'Ibarra Real Nova', serif;
+	font-size: 18px;
+	display: flex;
+	justify-content: center;
+	text-transform: uppercase;
+	color: #CDAD93;
+	text-decoration: none;
+	transition: all .1s linear;
+}
+.text-b-3:hover{
+	color: black;
+}
+.text-b-4{
+	font-family: 'Hind', sans-serif;
+	font-size: 14px;
+	color: black;
+	text-align: center;
+	padding: 10px 0 50px;
+}
+#btn-blog{
+	margin-top: 100px;
+}
+#card-2{
+	border-right: 2px solid black;
+	border-left: 2px solid black;
+}
+footer{
+	padding: 150px 0 20px;
+	background: white;
+}
+#menu-footer{
+	padding: 50px 0 10px;
+}
+#icon-footer i{
+	padding: 0 5px;
+}
+#icon-footer{
+	text-align: center;
+}
+#img-f{
+	padding: 30px 0;
+}
+.text-footer{
+	font-family: 'Hind', sans-serif;
+	font-size: 8px;
+	letter-spacing: 3px;
+	font-weight: bold;
+	color: black;
+	text-align: center;
+	text-transform: uppercase;
+	padding: 30px 0;
+}
+.logo{
+	width: 310px;
+}
+.menu ul{
+	display: block;
+}
+#icon-menu{
+	display: none;
+}
+
+/*{
+	border: 1px solid red;
+}
+/*Медиа-запросы*/
+
+/* 320px — 480px: мобильные устройства*/
+@media only screen and (min-width:320px) and (max-width:480px) {
+	.logo{
+		width: 150px;
+	}
+	.menu ul{
+		display: flex;
+		flex-direction: column;
+	}
+	.menu{
+		display: none;
+	}
+	#icon-menu{
+		display: block;
+	}
+	i{
+		font-size: 15px;
+		margin-left: 5px;
+	}
+	.video{
+		display: flex;
+		justify-content: start;
+	}
+	#my-video{
+		position: relative;
+		min-width: 100%;
+		min-height: 100%;
+		width: 650px;
+		height: 156px;
+		z-index: -1;
+	}
+	.name-1{
+		
+		font-size: 40px;
+		margin-top: 0;
+		z-index: 5;
+	}
+	.name-2{
+	
+		font-size: 30px;
+		margin-top: 0;
+	}
+	.text-section{
+		font-size: 15px;
+		padding: 30px 0;
+	}
+	/*section-2*/
+
+	.card-store{
+		width: 320px;
+		height: 600px;
+		margin: 80px 0 80px 0;
+	}
+	#welcome-1{
+		font-size: 50px;
+		margin-top: 200px;
+		margin-left: -130px;
+	}
+	#welcome-2{
+		font-size: 20px;
+		padding-right: 0;
+		margin-top:0;
+		margin-left: -50px;
+	}
+	.text{
+		margin-left:-90px;
+		margin-top: 0;
+		padding: 5px;
+	}
+	.enjoy{
+		margin-top:550px;
+		margin-left: -200px;
+		font-size: 20px;
+		letter-spacing: 5px;
+	}
+
+	/*section-3*/
+	#about-1{
+		font-size: 40px;
+		margin-top: 0;
+	}
+	#about-2{
+		font-size: 30px;
+		margin-top:0;
+	}
+	.btn-read{
+		width: 100%;
+	}
+
+	/*section-4*/
+	#v-2{
+		max-width: 320px;
+		max-height: 200px;
+	}
+	.video-2{
+		display: flex;
+		align-items: flex-start;
+	}
+	#text-1{
+		margin-top: -150px;
+		font-size: 15px;
+		z-index: 10;
+	}
+	#text-2{
+		margin-top: -140px;
+		font-size: 25px;
+	}
+	#text-3{
+		margin-top: -100px;
+		font-size: 15px;
+	}
+	#text-4{
+		margin-top: -90px;
+		font-size: 25px;
+	}
+	.cards-blog{
+		display: flex;
+		flex-direction: column;
+	}
+	.section-4{
+		height: 180px;
+	}
+
+
+	/*section-5*/
+	.section-5{
+		height: 100%;
+	}
+	.shop-block{
+		width: 100%;
+		margin-top: 50px;
+		height: 100%;
+		padding: 0;
+	}
+	.card-shop{	
+		height: 100%;
+		margin-top: 100px;
+	}
+	.img-card{
+		width: 100%;
+		height: 100%;
+		margin: 10px 0;
+	}
+	.cards{
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+	}
+	.price{
+		margin-top: 0;
+	}
+	#s-5-1{
+		margin: 0;
+		padding: 0;
+	}
+	#s-5-2{
+		margin-top: 0;
+		padding: 0;
+		font-size: 40px;
+	}
+	#btn-see{
+		margin-top: 50px;
+	}
+
+	/*section-6*/
+	.section-6{
+		height: 100%;
+	}
+	#lookbook-1{
+		font-size: 40px;
+		transform: none;
+		margin-top: 80px;
+		margin-left: 0;
+	
+	}
+	#lookbook-2{
+		font-size: 30px;
+		transform: none;
+		margin-top: 0;
+		margin-left: 0;
+		letter-spacing: 3px;
+	}
+	#slider{
+		width: 100%;
+		height: 100%;
+		margin-top: 0;
+	}
+	/*section-7*/
+	.section-7{
+		height: 100%;
+	}
+	.card-blog{	
+		margin-top: 100px;
+	}
+	#btn-blog{
+		margin:50px 0;
+		width: 100%;
+	}
+	#card-2{
+		border:none;
+	}
+	.card-blog img{
+		width: 100%;
+	}
+	/*footer*/
+	footer{
+		padding: 50px 0 20px;
+	}
+	#icon-footer{
+		padding: 20px 5px;
+	}
+ } 
+
+/* 481px — 768px: планшеты*/
+@media only screen and (min-width:481px) and (max-width:768px) { } 
+
+/* 769px — 1024px: маленькие экраны, ноутбуки*/
+@media only screen and (min-width:769px) and (max-width:1024px) { } 
+
+/*1025px — 1200px: большие экраны*/
+@media only screen and (min-width:1025px) and (max-width:1200px) { }
+
+/* 1201px и больше — очень большие экраны, телевизоры*/
+@media only screen and (min-width:1201px) { } 
